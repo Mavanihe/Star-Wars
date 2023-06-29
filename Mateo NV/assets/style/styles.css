@@ -1,0 +1,30 @@
+.banner{
+    background-image: url("../style/Estrela.jpg");
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25% ;
+}
+.body{
+    background-color:rgb(13, 17, 214);
+}
+
+.menu{
+    background-color: skyblue;
+}
+#tarjeta1{
+    padding: 10px;
+    background-color: rgb(58, 58, 212);
+}
+
+#fila1{
+    margin: 10px;
+}
+
+#fila2{
+    margin: 10px;
+}
+#tarjeta2{
+    padding: 10px;
+    background-color: rgb(39, 118, 150);
+}
